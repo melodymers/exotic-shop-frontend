@@ -1,0 +1,9 @@
+:root {
+  --amber-600: #d97706;
+  --amber-100: #fef3c7;
+  --primary-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* {
+  font-family: var(--primary-font);
+}
